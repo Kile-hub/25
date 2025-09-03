@@ -11,7 +11,7 @@ export default {
   name: 'ContributionRecord',
   data() {
     return {
-      date: '2025-08-27',
+      date: '2025-09-03',
       commitNumber: 4,
       totalCommits: 20
     }
